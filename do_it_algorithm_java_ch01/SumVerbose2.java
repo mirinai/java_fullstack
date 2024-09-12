@@ -20,6 +20,7 @@ public class SumVerbose2 {
 			sum+=i;
 		}
 		System.out.println("다 더한 값: "+(sum+n));
+		sc.close();
 	}
 
 }

@@ -37,6 +37,7 @@ public class ReverseArray {
         // 배열을 거꾸로 뒤집은 결과 출력
         System.out.println("element를 서로 거꾸로 넣음");
         System.out.println("x= " + Arrays.toString(x));  // 배열을 문자열로 출력
+        sc.close();
 	}
 
 }

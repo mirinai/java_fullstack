@@ -14,5 +14,6 @@ public class SumFor1 {
 			sum=sum+i;
 		}
 		System.out.printf("1부터 n까지의 합: %d\n",sum);
+		sc.close();
 	}
 }

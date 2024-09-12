@@ -19,7 +19,7 @@ public class JudgeSign {
 		else {
 			System.out.println("zero");
 		}
-		
+		sc.close();
 	}
 
 }

@@ -37,6 +37,7 @@ public class problem1_input_score {
             // 최종 학점 출력
             System.out.println("학점 = " + g);
         }
+        sc.close();
     }
 }
 

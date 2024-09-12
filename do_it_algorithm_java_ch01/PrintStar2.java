@@ -25,7 +25,7 @@ public class PrintStar2 {
 		if (rest!=0) {
 			System.out.println("*".repeat(rest));
 		}
-		
+		sc.close();
 	}
 
 }

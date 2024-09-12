@@ -45,7 +45,7 @@ public class SeasonProgram {
 	
 		} //switch
 		
-		
+		sc.close();
 	} //main
 	
 }

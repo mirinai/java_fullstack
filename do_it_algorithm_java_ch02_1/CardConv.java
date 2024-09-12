@@ -83,5 +83,6 @@ public class CardConv {
             System.out.print("한번 더 하기(예: 1, 아니오: 2): ");
             retry = sc.nextInt();  // 다시 할지 입력받음
         } while (retry == 1);  // 입력값이 1이면 반복, 그렇지 않으면 종료
+        sc.close();
     }
 }

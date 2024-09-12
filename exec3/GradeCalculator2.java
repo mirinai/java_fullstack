@@ -51,6 +51,7 @@ public class GradeCalculator2 {
 
         // 최종 결과 출력: 점수와 학점을 출력
         System.out.printf("Your score is %d and The grade is %s\n", grd, c);
+        sc.close();
     }
 }
 

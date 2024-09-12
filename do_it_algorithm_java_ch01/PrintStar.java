@@ -24,6 +24,6 @@ public class PrintStar {
 				System.out.println();
 			}
 		}
-		
+		sc.close();
 	}
 }

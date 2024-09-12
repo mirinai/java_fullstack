@@ -20,6 +20,6 @@ public class SumFor2 {
 		System.out.printf("1부터 n까지의 합: %d\n",sum);
 		
 		
-	
+		sc.close();
 	}
 }

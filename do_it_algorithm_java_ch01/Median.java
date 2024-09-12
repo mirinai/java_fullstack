@@ -30,6 +30,7 @@ public class Median {
 		int c = sc.nextInt();
 		
 		System.out.println("가운데 값은"+med3(a,b,c));
+		sc.close();
 	}
 
 }

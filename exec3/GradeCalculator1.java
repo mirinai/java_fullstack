@@ -46,6 +46,6 @@ public class GradeCalculator1 {
 			System.out.println("연산기호 잘못 입력함");
 		}
 		System.out.println(msg);
-		
+		sc.close();
 	}
 }

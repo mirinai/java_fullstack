@@ -24,6 +24,7 @@ public class SumVerbose {
 			sum+=i;
 		}
 		System.out.print(sum);
+		sc.close();
 	}
 
 }

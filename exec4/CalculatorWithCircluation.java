@@ -52,6 +52,7 @@ public class CalculatorWithCircluation {
 			}// switch
 
 		}
-		;
+		
+		sc.close();
 	}// main
 }

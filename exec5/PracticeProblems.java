@@ -123,7 +123,7 @@ public class PracticeProblems {
 
 		// 입력을 받는 Scanner 객체 종료 (코드에서 sc 선언이 안 보이므로 주석 처리 필요)
 		// sc.close();
-
+		sc.close();
 	}
 
 }

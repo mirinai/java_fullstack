@@ -30,6 +30,7 @@ public class Practice2 {
 		System.out.println("println version");
 		System.out.println("name: " + name);
 		System.out.println(num1 + " x " + num2 + " = " + result);
+		sc.close();
 	}
 
 }

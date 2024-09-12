@@ -39,7 +39,7 @@ public class ScanEx2 {
 		// 입력된 이름과 두 숫자의 합계를 출력
 		System.out.printf("%s가 만든 계산기의 연산결과 = %d", str2, num3 + num4);
 
-
+		sc.close();
 	}
 
 }

@@ -19,6 +19,7 @@ public class Alternative1 {
 				System.out.print("-");
 			}
 		}
+		sc.close();
 		
 	}
 }

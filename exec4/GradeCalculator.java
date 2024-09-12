@@ -53,6 +53,7 @@ public class GradeCalculator {
 
         // 최종 학점을 출력
         System.out.println("grade: " + grd);
+        sc.close();
     } // MAIN
 }
 

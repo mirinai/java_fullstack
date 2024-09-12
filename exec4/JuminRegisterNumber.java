@@ -33,5 +33,6 @@ public class JuminRegisterNumber {
 		} else {
 			System.out.println("몰?루");
 		}
+		sc.close();
 	}
 }

@@ -23,6 +23,7 @@ public class TwoDigits {
 		//드모르간 법칙
 		
 		System.out.println("variable no is "+no);
+		sc.close();
 	}
 
 }

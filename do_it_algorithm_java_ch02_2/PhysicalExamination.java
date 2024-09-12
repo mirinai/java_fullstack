@@ -85,6 +85,7 @@ public class PhysicalExamination {
 			// 시력 범위별로 해당하는 인원 수 출력 (0.0~2.0 시력을 0.1 간격으로)
 			System.out.printf("%3.1f~: %2d명\n", i / 10.0, vdist[i]);
 		}
+		sc.close();
 	}
 }
 

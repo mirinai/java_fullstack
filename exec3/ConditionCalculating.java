@@ -67,7 +67,7 @@ public class ConditionCalculating {
 		} else {
 			System.out.println("잘못된 연산자임");
 		}
-
+		sc.close();
 	}
 
 }

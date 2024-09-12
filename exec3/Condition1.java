@@ -28,5 +28,6 @@ public class Condition1 {
 		} else {
 			System.out.println("zero");
 		}
+		sc.close();
 	}
 }

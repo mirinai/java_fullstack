@@ -45,6 +45,6 @@ public class ScanEx {
 		System.out.printf("%s가 만든 계산기의 연산결과 = %d", str, num3 + num4);
 
 		
-		
+		sc.close();
 	  	}
 }

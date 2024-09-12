@@ -1,6 +1,6 @@
 package exec5;
 
-import java.util.Random;
+
 import java.util.Scanner;
 
 public class randomNumInput {
@@ -33,6 +33,7 @@ public class randomNumInput {
 
 		// 정답을 맞췄을 경우 출력
 		System.out.printf("%d가 정답임\n오답횟수: %d", num, counter);
+		sc.close();
 	}
 }
 

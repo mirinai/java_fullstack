@@ -22,7 +22,7 @@ public class TriangleLB {
 		triangleLBMethod(n);
 		nPiramid(n);
 		
-		
+		sc.close();
 	}
 	static void triangleLBMethod(int n){
 		for (int i =1;i<=n;i++) {

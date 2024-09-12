@@ -17,5 +17,6 @@ public class Multi99Table {
 			System.out.println();
 			
 		}
+		sc.close();
 	}
 }

@@ -28,6 +28,7 @@ public class MaxOfArrayRand {
 			
 		}
 		System.out.println("최댓값은 "+maxOf(height)+"(이)다.");
+		sc.close();
 	}
 
 }

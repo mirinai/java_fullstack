@@ -17,6 +17,7 @@ public class Alternative2 {
 		if (n % 2 != 0) {
 			System.out.print("+");
 		}
+		sc.close();
 	}
 
 }
