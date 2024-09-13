@@ -41,6 +41,5 @@ public class Max3 {
 			max = c;
 		return max;
 	}
-
 }
 

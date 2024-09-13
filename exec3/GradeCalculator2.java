@@ -2,7 +2,7 @@ package exec3;
 
 import java.util.Scanner;
 
-import java.util.Scanner;
+
 
 public class GradeCalculator2 {
     public static void main(String[] args) {
