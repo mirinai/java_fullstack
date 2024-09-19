@@ -2,7 +2,7 @@ package exec6;
 
 import java.util.Scanner;
 
-import javax.swing.text.DefaultTextUI;
+//import javax.swing.text.DefaultTextUI;
 
 public class VendingMachine1_failed {
 
