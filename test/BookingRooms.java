@@ -40,7 +40,7 @@ public class BookingRooms {
 		String password;
 		boolean userExit = false;
 		int menuNum = 0;
-		boolean found = false;
+//		boolean found = false;
 		String book;
 
 		int chooseNum = 0;
